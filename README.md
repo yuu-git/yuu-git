@@ -30,6 +30,13 @@ Technical Skills:
 
 ---
 
+- 🔧 i like to factory games:
+  - ⭐Factorio, Substructure, The Riftbreaker
+  - Satisfactory, Desynced
+  - Shapez, Modulus
+
+---
+
 <!--
 **yuu-git/yuu-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
