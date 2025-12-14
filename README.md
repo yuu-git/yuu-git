@@ -30,6 +30,23 @@ Technical Skills:
 
 ---
 
+What it means to create—
+
+To make something convenient.
+To make it accessible to anyone.
+To make it simple.
+
+To be there... always thinking of someone's safety.
+To deliver security that reaches the heart... to be of use.
+
+Even if they never realize how it works...
+Creating with this in mind.
+Creating with deep thought about what technology should be.
+
+This is how it must be.
+
+---
+
 - 🔧 i like to factory games:
   - ⭐Factorio, Substructure, The Riftbreaker
   - Satisfactory, Desynced
