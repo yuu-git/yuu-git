@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"name": "ateliers-knowledge",
+			"path": "../ateliers-knowledge"
+		},
+		{
+			"name": "ateliers-dev",
+			"path": "../ateliers-dev"
+		},
+		{
+			"name": "ateliers-core",
+			"path": "../ateliers-core"
+		},
+		{
+			"name": "ateliers-ai-mcp-core",
+			"path": "../ateliers-ai-mcp-core"
+		},
+		{
+			"name": "ateliers-ai-mcp-services",
+			"path": "../ateliers-ai-mcp-services"
+		},
+		{
+			"name": "ateliers-ai-mcp-tools",
+			"path": "../ateliers-ai-mcp-tools"
+		},
+		{
+			"name": "ateliers-ai-mcp-processes",
+			"path": "../ateliers-ai-mcp-processes"
+		},
+		{
+			"name": "ateliers-ai-mcp-projectbase",
+			"path": "../ateliers-ai-mcp-projectbase"
+		},
+		{
+			"name": "ateliers-voice-engines",
+			"path": "../ateliers-voice-engines"
+		},
+		{
+			"name": "yuu-git",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
